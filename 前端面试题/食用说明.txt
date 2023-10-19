@@ -1,0 +1,9 @@
+1.从HBuilderX导入`小程序源码`
+2.关联一个阿里云的uniCloud
+3.在云数据库中建立一个集合名为`femap`
+4.在femap集合中导入femap.json
+5.运行到微信小程序即可
+
+发布前注意事项：
+1.在小程序管理后台，开发设置界面配置request白名单：api.bspapp.com
+2.可以的话，给大帅老猿的小程序一个广告位跳转吧。大帅老猿小程序appid：wx7f04ab8ddd0820d8
